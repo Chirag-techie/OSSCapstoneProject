@@ -3,7 +3,7 @@
 **Author:** Chirag Gupta  
 **Registration Number:** 24BCE10686  
 **Course:** Open Source Software  
-**Slot:** B22  
+**Slot:** A13
 
 ## Project Overview
 This repository contains the practical shell scripting component of the "Open Source Audit" Capstone Project. The purpose of these scripts is to demonstrate practical Linux skills, including system administration, file auditing, and automation, reflecting the philosophy of open-source software transparency and flexibility.
